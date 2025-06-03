@@ -24,13 +24,13 @@
 <button class="hamburger" id="menu-toggle">&#9776;</button>
 <nav id="main-nav">
     <ul>
-      <li><a href="./indexd.php" id="icono">Inicio</a></li>
-      <li><a href="./clasificaciond.php">Clasificación</a></li>
-      <li><a href="./datosd.php" id="icono">Noticias</a></li>
-      <li><a href="./chatd.php" id="icono">Chat</a></li>
-      <li><a href="./resultadosd.php" id="icono">Resultados</a></li>
-      <li><a href="./resumend.php" id="icono">Resúmenes</a></li>
-      <li><a href="./contactod.php" id="icono">Contacto</a></li>
+      <li><a href="./index.php" id="icono">Inicio</a></li>
+      <li><a href="./clasificacion.php">Clasificación</a></li>
+      <li><a href="./datos.php" id="icono">Noticias</a></li>
+      <li><a href="./chat.php" id="icono">Chat</a></li>
+      <li><a href="./resultados.php" id="icono">Resultados</a></li>
+      <li><a href="./resumen.php" id="icono">Resúmenes</a></li>
+      <li><a href="./contacto.php" id="icono">Contacto</a></li>
     </ul>
 </nav>
 </header>  
